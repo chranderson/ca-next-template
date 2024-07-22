@@ -1,8 +1,8 @@
-# My template for Next.js apps
+# My template for Next.js apps - WIP
 
-**WIP**
+<img src="https://raw.githubusercontent.com/chranderson/ca-next-template/main/public/default-screen.png" alt="CA NextJS Template 2024" width="400"/>
 
-A starter template with:  TailwindCSS, Typescript, Jest & Playwright
+A starter template with: TailwindCSS, Typescript, Jest & Playwright
 
 ## Commands
 
