@@ -1,8 +1,10 @@
-# My template for Next.js apps
+# CA Next Template
 
-**WIP**
+**WIP**: A template for creating new NextJS apps with: TailwindCSS, Typescript, Jest & Playwright
 
-A starter template with:  TailwindCSS, Typescript, Jest & Playwright
+![home screen](https://raw.githubusercontent.com/chranderson/ca-next-template/main/public/default-screen.png)
+
+
 
 ## Commands
 
