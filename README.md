@@ -1,6 +1,8 @@
-# Template for Next.js apps: WIP
+# My template for Next.js apps
 
-Starter template TailwindCSS, Typescript, Jest & Playwright
+**WIP**
+
+A starter template with:  TailwindCSS, Typescript, Jest & Playwright
 
 ## Commands
 
@@ -34,7 +36,8 @@ You can run the tests once or in watch mode.
 ### End-to-end tests
 
 [Playwright](https://nextjs.org/docs/app/building-your-application/testing/playwright) is used for end-to-end tests.
-A github action is configured to run the tests on push and pull request.
+A github action is configured to run the tests on push and pull request.  
+Includes a smoke test to ensure home page renders.
 
 To run playwright locally, you must build and start the server first.
 
